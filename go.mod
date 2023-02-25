@@ -62,9 +62,9 @@ require (
 	github.com/ulikunitz/xz v0.5.9 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
-	golang.org/x/net v0.0.0-20200528225125-3c3fba18258b // indirect
-	golang.org/x/sys v0.0.0-20200523222454-059865788121 // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	google.golang.org/appengine v1.5.0 // indirect
 	gopkg.in/ini.v1 v1.51.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.2.2 // indirect
